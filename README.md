@@ -62,6 +62,5 @@ API-key migration, recovery from missing live records, automatic dust conversion
 - [Binance Spot API](https://github.com/binance/binance-spot-api-docs/blob/master/rest-api.md)
 - [Binance order filters](https://github.com/binance/binance-spot-api-docs/blob/master/filters.md)
 - [OpenAI structured outputs](https://developers.openai.com/api/docs/guides/structured-outputs?api-mode=responses)
-- [GPT-6 Luna](https://developers.openai.com/api/docs/models/gpt-6-luna)
 - [OpenAI spend limits](https://developers.openai.com/api/docs/guides/spend-limits)
 - [Windows data protection](https://learn.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata)
